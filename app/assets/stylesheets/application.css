@@ -252,7 +252,7 @@ border: none;
   background-image:url('hero2.jpg');
   background-size:cover;
   position:relative;
-  height:60vh;
+  height:70vh;
 }
 
 .mobile-header{
@@ -577,7 +577,7 @@ input[type=text] {
 }
 
 .add-activity {
-  width: 340px;
+  width: 290px;
   padding: 5px;
   background-color: #2f7cd0 !important;
   line-height: 1;
@@ -592,7 +592,7 @@ input[type=text] {
 }
 
 .map-button {
-  width: 340px;
+  width: 290px;
   padding: 5px;
   line-height: 1;
   border: 5px solid black;
